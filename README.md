@@ -497,11 +497,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Aniruddh Atrey**
+### **[Aniruddh Atrey](https://www.aniruddhatrey.com)**
 
-*Network Security Enthusiast & Python Developer*
+**AI Engineer | Cybersecurity Expert | SaaS Entrepreneur**
 
-[GitHub Profile](https://github.com/AndrousStark) • [Report Issues](https://github.com/AndrousStark/port-scanner/issues)
+MS Computer Science, University of Florida | Stanford ML Certified | 50+ Govt Assets Secured for DRDO
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aniruddhatrey.com-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://www.aniruddhatrey.com)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Services-9933ff?style=for-the-badge&logo=rocket&logoColor=white)](https://www.aniruddhatrey.com/services)
+[![MetaMinds](https://img.shields.io/badge/MetaMinds-AI_Agency-00ff88?style=for-the-badge&logo=brain&logoColor=white)](https://metaminds.firm.in)
+
+[![GitHub](https://img.shields.io/badge/GitHub-AndrousStark-181717?style=for-the-badge&logo=github)](https://github.com/AndrousStark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aniruddhatrey-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniruddhatrey)
+
+---
+
+**Want to build something like this — or better?**
+[**aniruddhatrey.com**](https://www.aniruddhatrey.com) | [**metaminds.firm.in**](https://metaminds.firm.in)
+
+*Co-Founder & COO @ [F1Jobs.io](https://f1jobs.io) | Founder & CTO @ [MetaMinds](https://metaminds.firm.in)*
 
 </div>
 
